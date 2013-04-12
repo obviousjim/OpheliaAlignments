@@ -1,0 +1,13 @@
+<drawPointcloud>1</drawPointcloud>
+<drawWireframe>1</drawWireframe>
+<drawMesh>1</drawMesh>
+<drawDepthDistortion>0</drawDepthDistortion>
+<drawGeometryDistortion>0</drawGeometryDistortion>
+<selfOcclude>1</selfOcclude>
+<drawDOF>0</drawDOF>
+<cameraSpeed>17</cameraSpeed>
+<cameraRollSpeed>1.52</cameraRollSpeed>
+<fillholes>1</fillholes>
+<kernelSize>5</kernelSize>
+<holeIterations>4</holeIterations>
+<mirror>0</mirror>
