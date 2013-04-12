@@ -1,0 +1,16 @@
+<drawPointcloud>0</drawPointcloud>
+<drawWireframe>1</drawWireframe>
+<drawMesh>0</drawMesh>
+<drawDepthDistortion>0</drawDepthDistortion>
+<drawGeometryDistortion>0</drawGeometryDistortion>
+<selfOcclude>0</selfOcclude>
+<drawDOF>0</drawDOF>
+<cameraSpeed>18.6</cameraSpeed>
+<cameraRollSpeed>1.08</cameraRollSpeed>
+<fillholes>1</fillholes>
+<kernelSize>3</kernelSize>
+<holeIterations>2</holeIterations>
+<mirror>0</mirror>
+<renderTriangulation>0</renderTriangulation>
+<enableLighting>0</enableLighting>
+<renderObjFiles>0</renderObjFiles>
