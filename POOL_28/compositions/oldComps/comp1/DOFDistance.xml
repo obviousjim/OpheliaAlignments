@@ -1,0 +1,32 @@
+<keyframes>
+    <key>
+        <x>0.102083</x>
+        <y>0.565789</y>
+        <easefunc>0</easefunc>
+        <easetype>0</easetype>
+    </key>
+    <key>
+        <x>0.307292</x>
+        <y>0.315789</y>
+        <easefunc>0</easefunc>
+        <easetype>0</easetype>
+    </key>
+    <key>
+        <x>0.608854</x>
+        <y>0.302632</y>
+        <easefunc>10</easefunc>
+        <easetype>0</easetype>
+    </key>
+    <key>
+        <x>0.75</x>
+        <y>0.960526</y>
+        <easefunc>0</easefunc>
+        <easetype>0</easetype>
+    </key>
+    <key>
+        <x>0.771875</x>
+        <y>0.960526</y>
+        <easefunc>0</easefunc>
+        <easetype>0</easetype>
+    </key>
+</keyframes>

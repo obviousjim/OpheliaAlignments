@@ -1,0 +1,14 @@
+<camera>
+    <sample>
+        <frame>2440</frame>
+        <px>-29.2502</px>
+        <py>78.9495</py>
+        <pz>-13.2874</pz>
+        <ox>-0.429267</ox>
+        <oy>0.894471</oy>
+        <oz>0.11431</oz>
+        <ow>0.0508386</ow>
+        <easein>0</easein>
+        <easeout>0</easeout>
+    </sample>
+</camera>

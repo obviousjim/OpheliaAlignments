@@ -1,0 +1,26 @@
+<camera>
+    <sample>
+        <frame>917</frame>
+        <px>-2.13408</px>
+        <py>-147.245</py>
+        <pz>556.917</pz>
+        <ox>-0.832073</ox>
+        <oy>0.283896</oy>
+        <oz>-0.473954</oz>
+        <ow>-0.0492443</ow>
+        <easein>0</easein>
+        <easeout>0</easeout>
+    </sample>
+    <sample>
+        <frame>1202</frame>
+        <px>278.998</px>
+        <py>-191.401</py>
+        <pz>368.71</pz>
+        <ox>-0.895203</ox>
+        <oy>0.212278</oy>
+        <oz>-0.386429</oz>
+        <ow>-0.0649792</ow>
+        <easein>0</easein>
+        <easeout>0</easeout>
+    </sample>
+</camera>

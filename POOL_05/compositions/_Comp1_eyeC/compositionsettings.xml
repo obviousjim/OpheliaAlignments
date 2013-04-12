@@ -1,0 +1,16 @@
+<drawPointcloud>0</drawPointcloud>
+<drawWireframe>1</drawWireframe>
+<drawMesh>0</drawMesh>
+<selfOcclude>0</selfOcclude>
+<drawDOF>0</drawDOF>
+<cameraSpeed>12.600000381</cameraSpeed>
+<cameraRollSpeed>0.500000000</cameraRollSpeed>
+<fillholes>1</fillholes>
+<kernelSize>3</kernelSize>
+<holeIterations>2</holeIterations>
+<mirror>0</mirror>
+<flipTexture>0</flipTexture>
+<width>1280</width>
+<height>720</height>
+<renderObjFiles>0</renderObjFiles>
+<startSequenceAtZero>0</startSequenceAtZero>

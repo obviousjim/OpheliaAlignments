@@ -1,0 +1,12 @@
+<camera>
+    <position>
+        <X>-2.8026e-45</X>
+        <Y>2.8026e-45</Y>
+        <Z>2.8026e-45</Z>
+    </position>
+    <rotation>
+        <X>-180</X>
+        <Y>-2.8026e-45</Y>
+        <Z>0</Z>
+    </rotation>
+</camera>
