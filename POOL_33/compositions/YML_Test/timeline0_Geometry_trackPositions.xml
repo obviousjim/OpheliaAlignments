@@ -1,0 +1,26 @@
+<positions>
+    <element name="Edge Clip">
+        <x>0.000000000</x>
+        <y>968.000000000</y>
+        <width>1555.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Simplify X">
+        <x>0.000000000</x>
+        <y>876.000000000</y>
+        <width>1555.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Simplify Y">
+        <x>0.000000000</x>
+        <y>922.000000000</y>
+        <width>1555.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Z Threshold">
+        <x>0.000000000</x>
+        <y>1014.000000000</y>
+        <width>1555.000000000</width>
+        <height>40.000000000</height>
+    </element>
+</positions>

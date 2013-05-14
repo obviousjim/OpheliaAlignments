@@ -1,0 +1,26 @@
+<positions>
+    <element name="Ring End Color A">
+        <x>0.000000000</x>
+        <y>968.000000000</y>
+        <width>1555.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Ring End Color B">
+        <x>0.000000000</x>
+        <y>1014.000000000</y>
+        <width>1555.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Ring Start Color A">
+        <x>0.000000000</x>
+        <y>876.000000000</y>
+        <width>1555.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Ring Start Color B">
+        <x>0.000000000</x>
+        <y>922.000000000</y>
+        <width>1555.000000000</width>
+        <height>40.000000000</height>
+    </element>
+</positions>
