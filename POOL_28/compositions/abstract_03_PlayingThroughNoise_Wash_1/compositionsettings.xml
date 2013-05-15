@@ -2,7 +2,7 @@
 <Camera_Speed>6.199999809</Camera_Speed>
 <Cam_Roll_Speed>0.680000007</Cam_Roll_Speed>
 <Reset_Camera>0</Reset_Camera>
-<Lock_to_Track>1</Lock_to_Track>
+<Lock_to_Track>0</Lock_to_Track>
 <Set_Camera_Point>0</Set_Camera_Point>
 <Draw_Pointcloud>0</Draw_Pointcloud>
 <Draw_Wireframe>0</Draw_Wireframe>
