@@ -1,44 +1,44 @@
 <positions>
     <element name="Light Effect">
         <x>15.000000000</x>
-        <y>952.000000000</y>
-        <width>1765.000000000</width>
+        <y>850.000000000</y>
+        <width>1890.000000000</width>
         <height>40.000000000</height>
     </element>
     <element name="Point Constant Attenuate">
         <x>15.000000000</x>
-        <y>998.000000000</y>
-        <width>1765.000000000</width>
+        <y>896.000000000</y>
+        <width>1890.000000000</width>
         <height>40.000000000</height>
     </element>
     <element name="Point Light Pos X">
         <x>15.000000000</x>
-        <y>1136.000000000</y>
-        <width>1765.000000000</width>
+        <y>1033.000000000</y>
+        <width>1890.000000000</width>
         <height>40.000000000</height>
     </element>
     <element name="Point Light Pos Y">
         <x>15.000000000</x>
-        <y>1182.000000000</y>
-        <width>1765.000000000</width>
+        <y>1079.000000000</y>
+        <width>1890.000000000</width>
         <height>40.000000000</height>
     </element>
     <element name="Point Light Pos Z">
         <x>15.000000000</x>
-        <y>1228.000000000</y>
-        <width>1765.000000000</width>
+        <y>1125.000000000</y>
+        <width>1890.000000000</width>
         <height>40.000000000</height>
     </element>
     <element name="Point Linear Attenuate">
         <x>15.000000000</x>
-        <y>1044.000000000</y>
-        <width>1765.000000000</width>
-        <height>40.000000000</height>
+        <y>942.000000000</y>
+        <width>1890.000000000</width>
+        <height>39.000000000</height>
     </element>
     <element name="Point Quad Attenuate">
         <x>15.000000000</x>
-        <y>1090.000000000</y>
-        <width>1765.000000000</width>
+        <y>987.000000000</y>
+        <width>1890.000000000</width>
         <height>40.000000000</height>
     </element>
 </positions>
