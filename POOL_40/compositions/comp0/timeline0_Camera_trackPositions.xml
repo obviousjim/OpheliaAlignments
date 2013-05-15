@@ -1,25 +1,25 @@
 <positions>
     <element name="Background Color">
         <x>15.000000000</x>
-        <y>747.000000000</y>
+        <y>789.000000000</y>
         <width>1650.000000000</width>
         <height>40.000000000</height>
     </element>
     <element name="Camera">
         <x>15.000000000</x>
-        <y>609.000000000</y>
+        <y>651.000000000</y>
         <width>1650.000000000</width>
         <height>40.000000000</height>
     </element>
     <element name="Camera Dampen">
         <x>15.000000000</x>
-        <y>655.000000000</y>
+        <y>697.000000000</y>
         <width>1650.000000000</width>
         <height>40.000000000</height>
     </element>
     <element name="Video">
         <x>15.000000000</x>
-        <y>701.000000000</y>
+        <y>743.000000000</y>
         <width>1650.000000000</width>
         <height>40.000000000</height>
     </element>
