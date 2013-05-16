@@ -18,11 +18,11 @@
 <width>1920</width>
 <height>1080</height>
 <startSequenceAtZero>0</startSequenceAtZero>
-<Video_Volume>0.694999993</Video_Volume>
+<Video_Volume>0.104999997</Video_Volume>
 <Camera_Speed>10.399999619</Camera_Speed>
 <Cam_Roll_Speed>0.680000007</Cam_Roll_Speed>
 <Reset_Camera>0</Reset_Camera>
-<Lock_to_Track>1</Lock_to_Track>
+<Lock_to_Track>0</Lock_to_Track>
 <Set_Camera_Point>0</Set_Camera_Point>
 <Draw_Pointcloud>0</Draw_Pointcloud>
 <Draw_Wireframe>0</Draw_Wireframe>

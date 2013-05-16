@@ -54,3 +54,6 @@
 <Render_Still_Frame>0</Render_Still_Frame>
 <Include_Texture_Maps>0</Include_Texture_Maps>
 <Start_Sequence_at_1>0</Start_Sequence_at_1>
+<Load_Normals>0</Load_Normals>
+<Use_Normals>1</Use_Normals>
+<Draw_Light_Debug>1</Draw_Light_Debug>
