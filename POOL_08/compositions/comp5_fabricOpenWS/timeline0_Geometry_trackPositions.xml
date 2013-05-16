@@ -1,31 +1,31 @@
 <positions>
     <element name="Edge Clip">
         <x>15.000000000</x>
-        <y>894.000000000</y>
+        <y>783.000000000</y>
         <width>1525.000000000</width>
         <height>40.000000000</height>
     </element>
     <element name="Simplify X">
         <x>15.000000000</x>
-        <y>802.000000000</y>
+        <y>691.000000000</y>
         <width>1525.000000000</width>
         <height>40.000000000</height>
     </element>
     <element name="Simplify Y">
         <x>15.000000000</x>
-        <y>848.000000000</y>
+        <y>737.000000000</y>
         <width>1525.000000000</width>
         <height>40.000000000</height>
     </element>
     <element name="Z Threshold Max">
         <x>15.000000000</x>
-        <y>940.000000000</y>
+        <y>829.000000000</y>
         <width>1525.000000000</width>
         <height>40.000000000</height>
     </element>
     <element name="Z Threshold Min">
         <x>15.000000000</x>
-        <y>986.000000000</y>
+        <y>875.000000000</y>
         <width>1525.000000000</width>
         <height>40.000000000</height>
     </element>

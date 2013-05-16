@@ -1,19 +1,19 @@
 <positions>
     <element name="X Perlin Stretch">
         <x>15.000000000</x>
-        <y>802.000000000</y>
+        <y>783.000000000</y>
         <width>1525.000000000</width>
         <height>40.000000000</height>
     </element>
     <element name="Y Perlin Stretch">
         <x>15.000000000</x>
-        <y>848.000000000</y>
+        <y>829.000000000</y>
         <width>1525.000000000</width>
         <height>40.000000000</height>
     </element>
     <element name="Z Perlin Stretch">
         <x>15.000000000</x>
-        <y>894.000000000</y>
+        <y>875.000000000</y>
         <width>1525.000000000</width>
         <height>40.000000000</height>
     </element>
