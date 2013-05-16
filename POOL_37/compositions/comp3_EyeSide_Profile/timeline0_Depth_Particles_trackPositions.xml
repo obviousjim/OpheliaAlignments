@@ -1,0 +1,14 @@
+<positions>
+    <element name="Depth Particle Alpha">
+        <x>15.000000000</x>
+        <y>929.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Max Particles">
+        <x>15.000000000</x>
+        <y>975.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+</positions>
