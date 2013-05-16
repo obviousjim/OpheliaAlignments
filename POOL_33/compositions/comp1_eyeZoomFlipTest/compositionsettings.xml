@@ -48,7 +48,7 @@
 <Mirror>1</Mirror>
 <Fill_Holes>1</Fill_Holes>
 <Hole_Kernel_Size>3</Hole_Kernel_Size>
-<Hole_Fill_Iterations>3</Hole_Fill_Iterations>
+<Hole_Fill_Iterations>2</Hole_Fill_Iterations>
 <Temporal_Alignment>0</Temporal_Alignment>
 <Set_Color-Depth_Time>0</Set_Color-Depth_Time>
 <Export_.obj_Files>0</Export_.obj_Files>

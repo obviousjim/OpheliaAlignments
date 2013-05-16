@@ -1,0 +1,50 @@
+<positions>
+    <element name="X Texture Matrix Rotate">
+        <x>15.000000000</x>
+        <y>1088.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="X Texture Matrix Translate">
+        <x>15.000000000</x>
+        <y>1180.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="X Texture Scale">
+        <x>15.000000000</x>
+        <y>996.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="X Texture Shift">
+        <x>15.000000000</x>
+        <y>902.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Y Texture Matrix Rotate">
+        <x>15.000000000</x>
+        <y>1134.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Y Texture Matrix Translate">
+        <x>15.000000000</x>
+        <y>1226.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Y Texture Scale">
+        <x>15.000000000</x>
+        <y>1042.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Y Texture Shift">
+        <x>15.000000000</x>
+        <y>948.000000000</y>
+        <width>1650.000000000</width>
+        <height>42.000000000</height>
+    </element>
+</positions>

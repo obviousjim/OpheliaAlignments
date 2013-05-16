@@ -1,0 +1,44 @@
+<positions>
+    <element name="Shininess">
+        <x>15.000000000</x>
+        <y>697.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Specular Constant Attenuate">
+        <x>15.000000000</x>
+        <y>743.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Specular Light Pos X">
+        <x>15.000000000</x>
+        <y>881.000000000</y>
+        <width>1650.000000000</width>
+        <height>42.000000000</height>
+    </element>
+    <element name="Specular Light Pos Y">
+        <x>15.000000000</x>
+        <y>929.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Specular Light Pos Z">
+        <x>15.000000000</x>
+        <y>975.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Specular Linear Attenuate">
+        <x>15.000000000</x>
+        <y>789.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Specular Quad Attenuate">
+        <x>15.000000000</x>
+        <y>835.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+</positions>
