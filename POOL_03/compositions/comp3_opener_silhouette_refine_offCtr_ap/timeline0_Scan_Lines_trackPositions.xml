@@ -1,0 +1,26 @@
+<positions>
+    <element name="Horizontal Scanline Alpha">
+        <x>15.000000000</x>
+        <y>999.000000000</y>
+        <width>1468.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Horizontal Scanline Thickness">
+        <x>15.000000000</x>
+        <y>1045.000000000</y>
+        <width>1468.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Vertical Scanline Alpha">
+        <x>15.000000000</x>
+        <y>1091.000000000</y>
+        <width>1468.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Vertical Scanline Thickness">
+        <x>15.000000000</x>
+        <y>1137.000000000</y>
+        <width>1468.000000000</width>
+        <height>40.000000000</height>
+    </element>
+</positions>
