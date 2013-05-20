@@ -57,3 +57,4 @@
 <Load_Normals>0</Load_Normals>
 <Use_Normals>1</Use_Normals>
 <Draw_Light_Debug>0</Draw_Light_Debug>
+<Draw_Backlight>0</Draw_Backlight>
