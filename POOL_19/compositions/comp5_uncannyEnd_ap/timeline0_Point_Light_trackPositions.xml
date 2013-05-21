@@ -1,0 +1,44 @@
+<positions>
+    <element name="Light Effect">
+        <x>15.000000000</x>
+        <y>599.000000000</y>
+        <width>1525.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Point Constant Attenuate">
+        <x>15.000000000</x>
+        <y>645.000000000</y>
+        <width>1525.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Point Light Pos X">
+        <x>15.000000000</x>
+        <y>783.000000000</y>
+        <width>1525.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Point Light Pos Y">
+        <x>15.000000000</x>
+        <y>829.000000000</y>
+        <width>1525.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Point Light Pos Z">
+        <x>15.000000000</x>
+        <y>875.000000000</y>
+        <width>1525.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Point Linear Attenuate">
+        <x>15.000000000</x>
+        <y>691.000000000</y>
+        <width>1525.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Point Quad Attenuate">
+        <x>15.000000000</x>
+        <y>737.000000000</y>
+        <width>1525.000000000</width>
+        <height>40.000000000</height>
+    </element>
+</positions>

@@ -1,0 +1,56 @@
+<positions>
+    <element name="Backlight Decay">
+        <x>15.000000000</x>
+        <y>1040.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Backlight Density">
+        <x>15.000000000</x>
+        <y>994.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Backlight Exposure">
+        <x>15.000000000</x>
+        <y>1086.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Backlight Num Samples">
+        <x>15.000000000</x>
+        <y>948.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Backlight Ring Radius">
+        <x>15.000000000</x>
+        <y>902.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Backlight Silhouette Alpha">
+        <x>15.000000000</x>
+        <y>1270.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Backlight Texture Alpha">
+        <x>15.000000000</x>
+        <y>1178.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Backlight Texture Scroll">
+        <x>15.000000000</x>
+        <y>1224.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Backlight Weight">
+        <x>15.000000000</x>
+        <y>1132.000000000</y>
+        <width>1650.000000000</width>
+        <height>40.000000000</height>
+    </element>
+</positions>
