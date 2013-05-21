@@ -1,31 +1,37 @@
 <positions>
-    <element name="Mesh Alpha">
+    <element name="Backlight Decay">
         <x>15.000000000</x>
-        <y>1136.000000000</y>
+        <y>1090.000000000</y>
         <width>1765.000000000</width>
         <height>40.000000000</height>
     </element>
-    <element name="Point Alpha">
-        <x>15.000000000</x>
-        <y>952.000000000</y>
-        <width>1765.000000000</width>
-        <height>40.000000000</height>
-    </element>
-    <element name="Point Size">
-        <x>15.000000000</x>
-        <y>998.000000000</y>
-        <width>1765.000000000</width>
-        <height>40.000000000</height>
-    </element>
-    <element name="Wireframe Alpha">
+    <element name="Backlight Density">
         <x>15.000000000</x>
         <y>1044.000000000</y>
         <width>1765.000000000</width>
         <height>40.000000000</height>
     </element>
-    <element name="Wireframe Thickness">
+    <element name="Backlight Exposure">
         <x>15.000000000</x>
-        <y>1090.000000000</y>
+        <y>1136.000000000</y>
+        <width>1765.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Backlight Num Samples">
+        <x>15.000000000</x>
+        <y>998.000000000</y>
+        <width>1765.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Backlight Ring Radius">
+        <x>15.000000000</x>
+        <y>952.000000000</y>
+        <width>1765.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Backlight Weight">
+        <x>15.000000000</x>
+        <y>1182.000000000</y>
         <width>1765.000000000</width>
         <height>40.000000000</height>
     </element>
