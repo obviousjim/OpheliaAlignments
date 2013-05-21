@@ -1,0 +1,28 @@
+<keyframes>
+    <key>
+        <px>593.877075195</px>
+        <py>-2.015689373</py>
+        <pz>-1243.935668945</pz>
+        <ox>-0.005119158</ox>
+        <oy>0.995853722</oy>
+        <oz>0.088222980</oz>
+        <ow>-0.021592226</ow>
+        <easein>0</easein>
+        <easeout>0</easeout>
+        <time>00:00:51:416</time>
+        <value>0.000000000</value>
+    </key>
+    <key>
+        <px>924.489929199</px>
+        <py>-178.527862549</py>
+        <pz>984.556030273</pz>
+        <ox>-0.152414620</ox>
+        <oy>0.987630367</oy>
+        <oz>-0.018264804</oz>
+        <ow>0.031970568</ow>
+        <easein>0</easein>
+        <easeout>0</easeout>
+        <time>00:01:04:375</time>
+        <value>0.000000000</value>
+    </key>
+</keyframes>

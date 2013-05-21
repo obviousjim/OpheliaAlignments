@@ -34,21 +34,8 @@
         <oz>0.260739684</oz>
         <ow>-0.209945485</ow>
         <easein>0</easein>
-        <easeout>0</easeout>
+        <easeout>1</easeout>
         <time>00:00:35:699</time>
-        <value>0.000000000</value>
-    </key>
-    <key>
-        <px>91.945434570</px>
-        <py>176.379653931</py>
-        <pz>570.625000000</pz>
-        <ox>0.761070132</ox>
-        <oy>0.544212759</oy>
-        <oz>0.251270801</oz>
-        <ow>-0.247919917</ow>
-        <easein>0</easein>
-        <easeout>0</easeout>
-        <time>00:00:40:290</time>
         <value>0.000000000</value>
     </key>
     <key>

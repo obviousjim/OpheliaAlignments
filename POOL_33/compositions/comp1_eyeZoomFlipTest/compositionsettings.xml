@@ -19,7 +19,7 @@
 <Camera_Speed>6.399999619</Camera_Speed>
 <Cam_Roll_Speed>0.680000007</Cam_Roll_Speed>
 <Reset_Camera>0</Reset_Camera>
-<Lock_to_Track>1</Lock_to_Track>
+<Lock_to_Track>0</Lock_to_Track>
 <Set_Camera_Point>0</Set_Camera_Point>
 <Draw_Pointcloud>0</Draw_Pointcloud>
 <Draw_Wireframe>0</Draw_Wireframe>
@@ -48,7 +48,7 @@
 <Mirror>1</Mirror>
 <Fill_Holes>1</Fill_Holes>
 <Hole_Kernel_Size>3</Hole_Kernel_Size>
-<Hole_Fill_Iterations>2</Hole_Fill_Iterations>
+<Hole_Fill_Iterations>3</Hole_Fill_Iterations>
 <Temporal_Alignment>0</Temporal_Alignment>
 <Set_Color-Depth_Time>0</Set_Color-Depth_Time>
 <Export_.obj_Files>0</Export_.obj_Files>
@@ -56,3 +56,4 @@
 <Render_Still_Frame>0</Render_Still_Frame>
 <Include_Texture_Maps>0</Include_Texture_Maps>
 <Start_Sequence_at_1>0</Start_Sequence_at_1>
+<Draw_Backlight>0</Draw_Backlight>

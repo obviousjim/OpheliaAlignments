@@ -1,0 +1,26 @@
+<positions>
+    <element name="Backlight Center">
+        <x>15.000000000</x>
+        <y>987.000000000</y>
+        <width>1890.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Backlight Silhouette Alpha">
+        <x>15.000000000</x>
+        <y>1125.000000000</y>
+        <width>1890.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Backlight Texture Alpha">
+        <x>15.000000000</x>
+        <y>1033.000000000</y>
+        <width>1890.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Backlight Texture Scroll">
+        <x>15.000000000</x>
+        <y>1079.000000000</y>
+        <width>1890.000000000</width>
+        <height>40.000000000</height>
+    </element>
+</positions>
